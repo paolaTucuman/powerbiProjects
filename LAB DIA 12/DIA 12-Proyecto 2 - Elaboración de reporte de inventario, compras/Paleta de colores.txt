@@ -1,0 +1,10 @@
+COLOR 1: Naranja CB6233
+COLOR 2: Azul 242D39
+COLOR 3: Gris CCCBCB
+
+
+
+usuario@giragroupsrl.com
+powerbi_2023
+
+
