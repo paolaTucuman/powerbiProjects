@@ -14,9 +14,9 @@ El curso proporcionó un libro de Excel con tablas de categorías, productos, ve
 
 El valor de ventas se obtiene sumando `Cantidad × PrecioUnitario` en la tabla de ventas. El gasto de compras se obtiene sumando `Cantidad × PrecioCompra` en la tabla de compras. La diferencia entre ambos **no se presenta como beneficio**: faltan otros costos y las tablas no necesariamente relacionan las mismas unidades.
 
-## Indicadores comprobados
+## Indicadores
 
-Los siguientes totales se recalcularon desde el libro de datos del curso y coinciden con las capturas sin filtros activos:
+Totales del libro de datos del curso, con el reporte sin filtros activos:
 
 | Indicador | Valor |
 | --- | ---: |
@@ -45,8 +45,9 @@ La institución entregó los datos de partida. Realicé todas las etapas posteri
 
 ## Límites
 
-Las capturas conservan la barra de páginas de Power BI porque son evidencias directas del archivo. La fecha visible de actualización es de 2023; el caso presenta datos históricos de 2020–2021 y no pretende ser un informe vigente. Las cifras describen el conjunto entregado durante el curso y no acreditan resultados comerciales de una empresa real.
+Las capturas muestran la interfaz de Power BI. La fecha visible de actualización es de 2023; el caso presenta datos históricos de 2020–2021. Las cifras describen el conjunto entregado durante el curso y no acreditan resultados comerciales de una empresa real.
 
 ## Archivo del proyecto
 
-El [archivo editable `.pbix`](https://github.com/paolaTucuman/powerbiProjects/blob/main/LAB%20DIA%2012/DIA%2012-LAB%202-PAOLA%20TUCUMAN.pbix) está en el repositorio `powerbiProjects`. Esta presentación en README solo reúne la explicación y las capturas del caso.
+El [archivo editable `.pbix`](https://github.com/paolaTucuman/powerbiProjects/blob/main/LAB%20DIA%2012/DIA%2012-LAB%202-PAOLA%20TUCUMAN.pbix) permite explorar el reporte completo en Power BI Desktop.
+
