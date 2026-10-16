@@ -47,6 +47,12 @@ Las ventas de 2021 fueron **Bs. 829.660 menores** que las de 2020, una disminuci
 
 Aprendí a organizar varias tablas en un modelo que permite comparar indicadores desde distintas perspectivas y a distinguir las ventas y el gasto de compras de una medida de rentabilidad. Si repitiera el proyecto, documentaría mejor las definiciones de cada indicador y comprobaría con más detalle los filtros y relaciones del modelo.
 
+## Habilidades técnicas aplicadas
+
+- **Modelado en Power BI:** preparé y relacioné las tablas de ventas, compras, inventario y sus dimensiones para analizar los mismos datos desde varias vistas.
+- **Indicadores:** construí medidas de unidades e importes y comparaciones por año, categoría, región y vendedor.
+- **Diseño del reporte:** configuré filtros, navegación y cuatro páginas de análisis para explorar los resultados.
+
 ## Mi contribución
 
 La institución entregó los datos de partida. Realicé todas las etapas posteriores hasta el reporte final: preparación de datos, relaciones y modelo, medidas e indicadores, selección y configuración de visualizaciones, filtros, navegación, diseño de páginas y comprobación del resultado.
@@ -58,4 +64,3 @@ Las capturas muestran la interfaz de Power BI. La fecha visible de actualizació
 ## Archivo del proyecto
 
 El [archivo editable `.pbix`](fun-store.pbix) permite explorar el reporte completo en Power BI Desktop.
-
